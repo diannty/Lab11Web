@@ -23,6 +23,38 @@ Kelas   = TI 20 D1
 ![web 1](https://user-images.githubusercontent.com/101880835/172562088-7482d28c-b641-4014-8ecb-0e637374d786.png)
 
 4. Instalasi Codeigniter 
+
+
+
+![membuat router baru 404 not found](https://user-images.githubusercontent.com/101880835/178067311-1105312f-1c03-4939-a569-4f8e92546ca3.png)
+![mengaktifkan mode debugging whoops](https://user-images.githubusercontent.com/101880835/178067335-480329bb-8efa-43cf-981f-4d0e353a7559.png)
+![halaman about terbaru](https://user-images.githubusercontent.com/101880835/178067351-d49b4674-5eb6-4996-8f65-1fe9761e5b85.png)
+![halaman about](https://user-images.githubusercontent.com/101880835/178067361-1db34718-1d19-4953-a995-d5e8eb36a272.png)
+![ini halaman term of service](https://user-images.githubusercontent.com/101880835/178067384-59502a67-d51d-4e77-b95c-e94123574ca0.png)
+![router false true](https://user-images.githubusercontent.com/101880835/178067407-4a0f3cd1-9264-47d2-bb85-1ac76aeb53d3.png)
+![ini halaman about](https://user-images.githubusercontent.com/101880835/178067437-daf6a285-0914-4d8f-869f-0ed60ed94c53.png)
+![router cmd php spark](https://user-images.githubusercontent.com/101880835/178067466-d63177c2-b851-4c3c-ae21-663de4aab565.png)
+![pharse eror](https://user-images.githubusercontent.com/101880835/178067486-0e28afa5-62bc-4e3b-ad18-fa46d4858b48.png)
+![envirenment](https://user-images.githubusercontent.com/101880835/178067520-cdcc2ce6-b235-4d5f-834d-f46eb1ca34ad.png)
+![home ; ilang](https://user-images.githubusercontent.com/101880835/178067541-8ddf37d7-11e9-49cb-a1ec-a7ad2bbaf7eb.png)
+![xampp CLI](https://user-images.githubusercontent.com/101880835/178067554-f0fcd017-6995-4ae4-ad01-ecee2d72a55b.png)
+![welcome](https://user-images.githubusercontent.com/101880835/178067596-1a91bdd1-03ce-4be8-8d5a-07fb3f564961.png)
+![membuat roter baru, router php](https://user-images.githubusercontent.com/101880835/178067646-1ee793ed-2565-4f01-b825-517716ada7f6.png)
+![about php terbaru](https://user-images.githubusercontent.com/101880835/178067661-f034ac98-8029-4bca-a3a6-b0e0e24dbed6.png)
+![footer php](https://user-images.githubusercontent.com/101880835/178067678-523699aa-67b6-47df-a184-351a00735965.png)
+![header php](https://user-images.githubusercontent.com/101880835/178067690-36bd9995-f62b-4a28-be74-eff8e0f2c3ad.png)
+![MEMBUAT LAYOUT HEADER PHP](https://user-images.githubusercontent.com/101880835/178067715-f3a72dfd-0c61-45e2-8e4e-584f957c4245.png)
+![file style di folder](https://user-images.githubusercontent.com/101880835/178067741-c48ab08b-0b4d-4783-ac86-49f39d3a6ef5.png)
+![MEMBUAT LAYOUT WEB BUAT FOLDER](https://user-images.githubusercontent.com/101880835/178067766-6462405d-0eb5-48fe-a5b9-b13c4b963380.png)
+![MEMBUAT VIEW UBAH PAGE PHP](https://user-images.githubusercontent.com/101880835/178067781-6550d61b-c340-48a9-a848-a876972808f5.png)
+![page tmbh tulisan panjang](https://user-images.githubusercontent.com/101880835/178067794-76dad09f-2a7d-425f-a3b3-cdf7488fe511.png)
+![MEMBUAT VIEW ABOUT PHP](https://user-images.githubusercontent.com/101880835/178067816-5e2b3146-fbe5-4d06-a34d-e5c9857deab9.png)
+![view yg isi](https://user-images.githubusercontent.com/101880835/178067840-4a9f1d71-3e6f-4e25-b286-9347ccd02797.png)
+![AUTO ROTING PAGE PHP](https://user-images.githubusercontent.com/101880835/178067858-ca416d40-b6a2-4ec6-8a98-fe02ae1f2d6a.png)
+![membuat controller page php](https://user-images.githubusercontent.com/101880835/178067868-a55de129-3066-4aab-ba7f-83c4bf5450f8.png)
+![debugging env](https://user-images.githubusercontent.com/101880835/178067895-beac6072-cc21-4109-874a-d7d9d9211721.png)
+![debugging home,php](https://user-images.githubusercontent.com/101880835/178067910-14843c37-3e9e-4573-8b56-dfdc67aaed66.png)
+
 Untuk melakukan instalasi Codeigniter 4 dapat dilakukan dengan dua cara, yaitu cara manual dan menggunakan composer. Pada praktikum ini kita menggunakan cara manual.
 
 Unduh Codeigniter dari website https://codeigniter.com/download
