@@ -31,6 +31,12 @@ Extrak file zip Codeigniter ke direktori htdocs/lab11_php_ci.
 Ubah nama direktory framework-4.x.xx menjadi ci4.
 Buka browser dengan alamat http://localhost/lab11_php_ci/ci4/public/
 
+![welcome](https://user-images.githubusercontent.com/101880835/178067596-1a91bdd1-03ce-4be8-8d5a-07fb3f564961.png)
+
+
+
+
+
 ![halaman about terbaru](https://user-images.githubusercontent.com/101880835/178067351-d49b4674-5eb6-4996-8f65-1fe9761e5b85.png)
 ![halaman about](https://user-images.githubusercontent.com/101880835/178067361-1db34718-1d19-4953-a995-d5e8eb36a272.png)
 ![ini halaman term of service](https://user-images.githubusercontent.com/101880835/178067384-59502a67-d51d-4e77-b95c-e94123574ca0.png)
