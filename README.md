@@ -33,26 +33,6 @@ Buka browser dengan alamat http://localhost/lab11_php_ci/ci4/public/
 
 ![welcome](https://user-images.githubusercontent.com/101880835/178067596-1a91bdd1-03ce-4be8-8d5a-07fb3f564961.png)
 
-
-
-
-
-![halaman about terbaru](https://user-images.githubusercontent.com/101880835/178067351-d49b4674-5eb6-4996-8f65-1fe9761e5b85.png)
-![halaman about](https://user-images.githubusercontent.com/101880835/178067361-1db34718-1d19-4953-a995-d5e8eb36a272.png)
-![ini halaman term of service](https://user-images.githubusercontent.com/101880835/178067384-59502a67-d51d-4e77-b95c-e94123574ca0.png)
-![router false true](https://user-images.githubusercontent.com/101880835/178067407-4a0f3cd1-9264-47d2-bb85-1ac76aeb53d3.png)
-
-![envirenment](https://user-images.githubusercontent.com/101880835/178067520-cdcc2ce6-b235-4d5f-834d-f46eb1ca34ad.png)
-![welcome](https://user-images.githubusercontent.com/101880835/178067596-1a91bdd1-03ce-4be8-8d5a-07fb3f564961.png)
-![header php](https://user-images.githubusercontent.com/101880835/178067690-36bd9995-f62b-4a28-be74-eff8e0f2c3ad.png)
-![MEMBUAT LAYOUT WEB BUAT FOLDER](https://user-images.githubusercontent.com/101880835/178067766-6462405d-0eb5-48fe-a5b9-b13c4b963380.png)
-![page tmbh tulisan panjang](https://user-images.githubusercontent.com/101880835/178067794-76dad09f-2a7d-425f-a3b3-cdf7488fe511.png)
-![view yg isi](https://user-images.githubusercontent.com/101880835/178067840-4a9f1d71-3e6f-4e25-b286-9347ccd02797.png)
-![debugging home,php](https://user-images.githubusercontent.com/101880835/178067910-14843c37-3e9e-4573-8b56-dfdc67aaed66.png)
-
-
-
-
 5. Menjalankan CLI (Command Line Interface)
 
 Codeigniter 4 menyediakan CLI untuk mempermudah proses development. Untuk mengakses CLI buka terminal/command prompt. Arahkan lokasi direktori sesuai dengan direktori kerja project dibuat (xampp/htdocs/lab11_php_ci/ci4/). Perintah yang dapat dijalankan untuk memanggil CLI Codeigniter adalah: php spark.
